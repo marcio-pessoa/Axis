@@ -1,4 +1,4 @@
-/* Axis.h - Robot axis
+/* Axis.h - Robot Axis Management Library
  * 
  * Author: Márcio Pessoa <marcio.pessoa@sciemon.com>
  * Contributors: none

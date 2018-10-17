@@ -1,4 +1,4 @@
-/* Axis.cpp - Robot axis
+/* Axis.cpp - Robot Axis Management Library
  * 
  */
 
