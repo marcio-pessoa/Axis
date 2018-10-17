@@ -1,6 +1,6 @@
 /* Axis.h - Robot Axis Management Library
  * 
- * Author: Márcio Pessoa <marcio.pessoa@sciemon.com>
+ * Author: Márcio Pessoa <marcio.pessoa@gmail.com>
  * Contributors: none
  * 
  * Change log
